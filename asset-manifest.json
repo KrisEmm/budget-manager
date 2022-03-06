@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/budget-manager/static/css/main.78390722.chunk.css",
+    "main.js": "/budget-manager/static/js/main.237d3be4.chunk.js",
+    "main.js.map": "/budget-manager/static/js/main.237d3be4.chunk.js.map",
+    "runtime-main.js": "/budget-manager/static/js/runtime-main.5c75803a.js",
+    "runtime-main.js.map": "/budget-manager/static/js/runtime-main.5c75803a.js.map",
+    "static/js/2.5e5287c4.chunk.js": "/budget-manager/static/js/2.5e5287c4.chunk.js",
+    "static/js/2.5e5287c4.chunk.js.map": "/budget-manager/static/js/2.5e5287c4.chunk.js.map",
+    "static/js/3.981383c7.chunk.js": "/budget-manager/static/js/3.981383c7.chunk.js",
+    "static/js/3.981383c7.chunk.js.map": "/budget-manager/static/js/3.981383c7.chunk.js.map",
+    "index.html": "/budget-manager/index.html",
+    "static/css/main.78390722.chunk.css.map": "/budget-manager/static/css/main.78390722.chunk.css.map",
+    "static/js/2.5e5287c4.chunk.js.LICENSE.txt": "/budget-manager/static/js/2.5e5287c4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c75803a.js",
+    "static/js/2.5e5287c4.chunk.js",
+    "static/css/main.78390722.chunk.css",
+    "static/js/main.237d3be4.chunk.js"
+  ]
+}
