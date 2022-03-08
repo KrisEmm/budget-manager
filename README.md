@@ -20,4 +20,4 @@ This is a project that helps you to know and manage your expenses. You put your 
 
 ##### `docker-compose up -d`
 
-##### `visit into browser http:\\localhost:port/`
+##### `visit into browser http:\\localhost:3000/`
